@@ -18,17 +18,18 @@ export default function Index() {
       <Container>
         <Intro />
         <HeroPost
-          title={heroPost.title}
+          // title={heroPost.title}
+          title="Welcome to Genmo Combo Community"
           coverImage={heroPost.coverImage}
           date={heroPost.date}
-          author={heroPost.author}
+          author="Tara Liu"
           slug={heroPost.slug}
           excerpt={heroPost.excerpt}
         />
         {/* Add the Card component here */}
         <Card
-          title="AI Chatbox"
-          description="Click here to interact with our AI chatbot and explore its capabilities."
+          title="Your AI Assistant"
+          description="Click here to interact with secured  AI chatbot."
           link="https://gemini-pro-chat-smoky-chi-29.vercel.app/"
         />
         {morePosts.length > 0 && <MoreStories posts={morePosts} />}
