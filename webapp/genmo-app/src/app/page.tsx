@@ -22,7 +22,7 @@ export default function Index() {
           title="Welcome to Genmo Combo Community"
           coverImage={heroPost.coverImage}
           date={heroPost.date}
-          author="Tara Liu"
+          author={heroPost.author}
           slug={heroPost.slug}
           excerpt={heroPost.excerpt}
         />
