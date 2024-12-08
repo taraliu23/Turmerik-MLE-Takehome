@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6" pages="3">
   <diagram name="Page-1" id="bkbu4jDmeRLfMbkXZAEi">
-    <mxGraphModel dx="590" dy="2030" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="427" dy="1418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,9 +51,6 @@
             <mxGeometry x="37.41573033707866" y="385.71428571428567" width="166.2921348314607" height="34.285714285714285" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Dij9Efi4dS7zVnYookrZ-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="Dij9Efi4dS7zVnYookrZ-20" vertex="1">
-          <mxGeometry width="370" height="411.4285714285714" as="geometry" />
-        </mxCell>
         <mxCell id="Dij9Efi4dS7zVnYookrZ-22" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1400" y="360" width="450" height="240" as="geometry" />
         </mxCell>
@@ -116,6 +113,9 @@
         </mxCell>
         <mxCell id="gVzZCgLzrR8dPDog7A4y-35" value="how to eval: compare response (50~100), how to eval response: binary comparison + dimension (privacy, detail)" style="whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="1" vertex="1">
           <mxGeometry x="828" y="1140" width="492" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Dij9Efi4dS7zVnYookrZ-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1810" y="628.57" width="370" height="411.4285714285714" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -199,7 +199,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2yujCfrwwRoiFHRI1QJf" name="workflow">
-    <mxGraphModel dx="833" dy="1914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1004" dy="1754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />

@@ -1,0 +1,51 @@
+Question ID,Question,Helpfulness,Completeness,Helpfulness after RAG,Completeness after RAG,Overall Score,RAG Overall Score,Overall Score Difference
+1,What are the available clinical trials for anxiety related to genetic disorders?,2,3,3,5,2.5,4.0,1.5
+2,How do I find out if I’m eligible for a clinical trial for depression with a genetic predisposition?,3,4,3,5,3.5,4.0,0.5
+3,Can genetic testing help diagnose my mental health condition?,0,4,3,4,2.0,3.5,1.5
+4,What are the risks of participating in a clinical trial for mental disorders with a genetic mutation?,2,1,5,4,1.5,4.5,3.0
+5,Are there clinical trials specifically for people with Williams Syndrome and anxiety?,2,3,3,3,2.5,3.0,0.5
+6,Can Fragile X Syndrome increase the risk of developing depression? Are there any treatments?,3,5,3,5,4.0,4.0,0.0
+7,What resources are available for individuals with Huntington’s disease and associated mood disorders?,0,3,3,5,1.5,4.0,2.5
+8,Does having a parent with bipolar disorder increase my chances of developing it?,0,5,5,5,2.5,5.0,2.5
+9,How do genetic variations influence the effectiveness of antidepressants?,2,1,3,3,1.5,3.0,1.5
+10,Are there clinical trials studying schizophrenia in people with a family history of the condition?,1,2,3,3,1.5,3.0,1.5
+11,How can I get financial support for joining a clinical trial related to genetic conditions?,2,4,5,4,3.0,4.5,1.5
+12,What happens if I develop side effects during a clinical trial for genetic-linked depression?,2,1,5,3,1.5,4.0,2.5
+13,Are there clinical trials for children with ADHD linked to genetic factors?,2,4,5,5,3.0,5.0,2.0
+14,Are there online support groups for people with genetic-linked anxiety disorders?,2,2,3,5,2.0,4.0,2.0
+15,What are the benefits of genetic counseling for managing mental health conditions?,3,2,5,3,2.5,4.0,1.5
+16,Can lifestyle changes help improve mental health for people with genetic conditions?,0,1,5,5,0.5,5.0,4.5
+17,How is my genetic information protected in mental health clinical trials?,3,2,3,5,2.5,4.0,1.5
+18,Will participating in a genetic study affect my health insurance coverage?,3,5,5,3,4.0,4.0,0.0
+19,What are the latest treatments for depression caused by genetic mutations?,3,2,3,3,2.5,3.0,0.5
+20,Can gene therapy help with mental disorders? Are there any ongoing studies?,2,4,4,5,3.0,4.5,1.5
+21,What genetic conditions are most commonly associated with anxiety disorders?,1,4,5,5,2.5,5.0,2.5
+22,Can genetic testing predict the likelihood of developing PTSD?,0,4,4,5,2.0,4.5,2.5
+23,Are there clinical trials for OCD linked to genetic mutations?,1,4,3,4,2.5,3.5,1.0
+24,What is the role of epigenetics in mental health disorders?,3,5,5,4,4.0,4.5,0.5
+25,How do environmental factors interact with genetic predispositions in mental health?,3,3,3,4,3.0,3.5,0.5
+26,Can I participate in a clinical trial if I am already on medication?,1,1,4,3,1.0,3.5,2.5
+27,What genetic markers are used to study depression in clinical trials?,1,4,3,4,2.5,3.5,1.0
+28,How can I interpret the results of my genetic test in relation to mental health?,1,2,5,3,1.5,4.0,2.5
+29,Are there genetic tests available for autism spectrum disorder?,3,4,5,3,3.5,4.0,0.5
+30,Can genetic research lead to personalized treatments for anxiety?,3,2,4,4,2.5,4.0,1.5
+31,Are there any mobile apps for tracking mental health linked to genetic conditions?,0,2,3,4,1.0,3.5,2.5
+32,How do researchers use family history in genetic mental health studies?,0,4,5,4,2.0,4.5,2.5
+33,What role does serotonin play in genetically linked mental disorders?,3,5,4,5,4.0,4.5,0.5
+34,Are there any ongoing studies on gene therapy for anxiety disorders?,1,2,5,4,1.5,4.5,3.0
+35,What happens if my genetic results indicate a high risk for schizophrenia?,1,2,5,5,1.5,5.0,3.5
+36,How can genetic research benefit people with dual diagnoses of mental and physical disorders?,0,4,3,3,2.0,3.0,1.0
+37,What ethical issues should I consider before participating in genetic research?,3,2,5,5,2.5,5.0,2.5
+38,Can genetic counseling help my family understand inherited mental health risks?,0,2,3,4,1.0,3.5,2.5
+39,Are there any resources specifically for caregivers of people with genetic mental health disorders?,0,4,5,3,2.0,4.0,2.0
+40,How long do clinical trials for genetic-related mental health issues usually last?,2,4,4,3,3.0,3.5,0.5
+41,What are the common side effects of participating in genetic mental health trials?,2,1,5,3,1.5,4.0,2.5
+42,Is there financial aid available for genetic testing in mental health studies?,2,5,3,5,3.5,4.0,0.5
+43,How accurate are genetic tests in predicting mental health outcomes?,1,5,3,4,3.0,3.5,0.5
+44,Can mental health conditions be prevented with early genetic screening?,3,2,4,3,2.5,3.5,1.0
+45,Are there any government-funded programs supporting mental health genetics research?,3,5,5,3,4.0,4.0,0.0
+46,What lifestyle changes can complement genetic treatments for mental disorders?,3,2,5,3,2.5,4.0,1.5
+47,How can I find a genetic counselor who specializes in mental health?,3,1,4,5,2.0,4.5,2.5
+48,What is the difference between genetic predisposition and environmental factors in mental disorders?,2,4,5,5,3.0,5.0,2.0
+49,Are there any community organizations supporting patients in genetic mental health trials?,1,4,5,4,2.5,4.5,2.0
+50,How do researchers ensure privacy in genetic studies related to mental health?,1,4,3,5,2.5,4.0,1.5
