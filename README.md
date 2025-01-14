@@ -1,15 +1,3 @@
-Turmerik
-
-Machine Learning Take Home Assignment
-
-Please submit your responses @ https://forms.gle/yuBfCVqQBScLxC1bA
-
-
-I don't expect you to have all the answers! I am more so curious to know about how you think.
-
-
-### Take-Home Assignment: Sentiment Analysis and Personalized Messaging for Clinical Trial Recruitment
-
 
 #### Objective:
 
@@ -68,7 +56,4 @@ The objective of this project is to demonstrate your ability to ethically scrape
 - **Ethical Considerations**: How well did you address ethical concerns related to data privacy and user engagement?
 
 
-#### Submission:
-
-Submit your complete project via a GitHub repository link, including all source files, documentation, and any other materials created for the project.
 
